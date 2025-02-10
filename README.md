@@ -1,1 +1,1 @@
-# Loggi Project
+# Projects
